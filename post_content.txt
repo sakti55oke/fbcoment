@@ -1,0 +1,11 @@
+Ini adalah postingan pertama.
+Anda bisa menekan "Enter" untuk membuat baris baru seperti ini.
+
+Sangat mudah, bukan? 👍
+---
+Ini adalah postingan kedua.
+
+Anda bisa menyisipkan link seperti ini:
+https://website-anda.com
+---
+Dan ini adalah postingan ketiga.
